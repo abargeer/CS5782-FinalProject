@@ -35,7 +35,6 @@ This result is significant because it demonstrates that attention over spatial C
 ├── results/
 │   ├── figures/      # Training/validation loss and BLEU-4 curves
 │   ├── attention_visualizations/ # Sample attention maps per generated word
-│   └── metrics.json             # Final BLEU and METEOR scores
 ├── poster/
 │   └── poster.pdf               # Poster presented in class
 ├── report/
