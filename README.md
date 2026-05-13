@@ -87,8 +87,8 @@ This result is significant because it demonstrates that attention over spatial C
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/<your-repo-url>.git
-   cd show-attend-and-tell
+   git clone https://github.com/abargeer/CS5782-FinalProject.git
+   cd CS5782-FinalProject
    ```
 
 2. **Download the dataset** following the instructions in `data/README.md`:
